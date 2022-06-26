@@ -1,0 +1,33 @@
+body {
+    display: block ;
+    background-image: url("blue-jack.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 1000px 1000px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color: goldenrod; 
+    text-transform: capitalize;
+}
+
+#message-el {
+    font-style: italic;
+}
+p {
+    font-size: 30px;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+button {
+    color: #016f32;
+    width: 150px;
+    padding: 5px 5px;
+    background: goldenrod;
+    text-transform: uppercase;
+    border: none;
+    font-weight: bold;
+    border-radius: 2px;
+}
